@@ -118,6 +118,9 @@ font-size: 10rem;
         top: -40px;
         left: -2%;
     }
+    .woman{
+        visibility: hidden;
+    }
    
     .mobile-menu-toggler{
         position: relative;
@@ -142,6 +145,9 @@ font-size: 10rem;
         position: relative;
         top: -40px;
         left: -2%;
+    }
+    .woman{
+        visibility: hidden;
     }
    
     .mobile-menu-toggler{
@@ -168,6 +174,10 @@ font-size: 10rem;
         top: -40px;
         left: -2%;
     }
+    .woman{
+        visibility: hidden;
+    }
+   
    
     .mobile-menu-toggler{
        padding-left: 380px;
@@ -194,6 +204,10 @@ font-size: 10rem;
         top: -2px;
         left: -2%;
     }
+    .woman{
+        visibility: hidden;
+    }
+   
    
     .mobile-menu-toggler{
         position: relative;
@@ -223,6 +237,9 @@ font-size: 10rem;
         position: relative;
         top: -2px;
         left: -2%;
+    }
+    .woman{
+        visibility: hidden;
     }
    
     .mobile-menu-toggler{
@@ -268,6 +285,9 @@ font-size: 10rem;
         top: -40px;
         left: -2%;
     }
+    .woman{
+        visibility: hidden;
+    }
    
     .mobile-menu-toggler{
         position: relative;
@@ -291,6 +311,9 @@ font-size: 10rem;
             top: -2px;
             left: 5%;
         }
+        .woman{
+            visibility: hidden;
+        }
        
         .mobile-menu-toggler{
             position: relative;
@@ -302,9 +325,7 @@ font-size: 10rem;
         right: 12.5rem;
         bottom: -26rem;
         }
-        body{
-            background-color: red;
-        }
+       
      }
 
  /* iphone 12 pro max*/
@@ -317,6 +338,9 @@ font-size: 10rem;
             position: relative;
             top: -2px;
             left: 5%;
+        }
+        .woman{
+            visibility: hidden;
         }
        
         .mobile-menu-toggler{
@@ -362,6 +386,9 @@ font-size: 10rem;
             top: -40px;
             left: -2%;
         }
+        .woman{
+            visibility: hidden;
+        }
        
         .mobile-menu-toggler{
             position: absolute;
@@ -386,6 +413,10 @@ font-size: 10rem;
             top: -40px;
             left: -2%;
         }
+        .woman{
+            visibility: hidden;
+        }
+       
        
         .mobile-menu-toggler{
             position: absolute;
@@ -399,8 +430,6 @@ font-size: 10rem;
         right: 15.5rem;
         bottom: -26rem;
         }
-        body{
-            background-color: red;
-        }
+        
     }
         

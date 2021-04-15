@@ -4974,12 +4974,12 @@ body:not(.loaded) * {
     opacity: 0.7;
 }
 .input-footer .form-control {
-    background-color: #22306d;
+    background-color: #fff;
     border: none;
-    color: #fff;
+    color: #5E3482;
 }
 .input-footer .form-control::placeholder {
-    color: #fff;
+    color: #5E3482;
 }
 .input-footer .form-action {
     background-color: transparent;
@@ -4995,7 +4995,7 @@ body:not(.loaded) * {
     color: #5d3382;
 }
 .input-dark .form-control {
-    background-color: #22306d;
+    background-color: #5E3482;
     color: #fff;
     border: 2px solid #4b5ca7;
 }
