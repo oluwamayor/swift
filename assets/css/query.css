@@ -76,6 +76,9 @@ font-size: 10rem;
         top: -60px;
         left: 20%;
     }
+    .foot{
+        padding-top: 100px;
+    }
     .main-nav{
         position: relative;
         top: -80px;

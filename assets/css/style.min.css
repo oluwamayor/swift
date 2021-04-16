@@ -3885,7 +3885,7 @@ ul.sub-menu li.li-with-arrow i.fas.fa-caret-right {
 }
 .footer-top {
     display: flex;
-    padding: 147px 0 52px;
+   
     align-items: center;
 }
 .social-links {
@@ -3939,7 +3939,7 @@ ul.sub-menu li.li-with-arrow i.fas.fa-caret-right {
     margin-top: 1.3rem;
 }
 .footer-bottom {
-    padding: 6rem 0 14.5rem;
+    padding: 6rem 0 4.5rem;
 }
 #scroll-top {
     width: 5rem;
